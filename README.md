@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="NETFLIX Logo" width="400" />
+  
+  <img title="Netflix" src="https://files.tecnoblog.net/wp-content/uploads/2015/07/spotify-novo-verde.jpg" alt="NETFLIX Logo"/>
   <br>
   Clone Spotify
 </h1>
@@ -22,6 +23,7 @@
 ![img2](https://github.com/IagoCustodio/react-netflix/assets/74364305/076f364a-88fe-473a-8e81-a298e9fb5adf)
 <br><br><br>
 ![imf3](https://github.com/IagoCustodio/react-netflix/assets/74364305/5faa20ad-0b4c-458f-b70b-34d9d96294ef)
+
 
 </div>
 
