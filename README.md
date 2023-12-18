@@ -1,12 +1,12 @@
 <h1 align="center">
   <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="NETFLIX Logo" width="400" />
   <br>
-  Clone Netflix React
+  Clone Spotify
 </h1>
 
 <p><font size="3">
-  Este projeto é um clone do site da Netflix criado usando React.JS como front-end e interface onde mostro um pouco das minhas habilidades em React.JS para construir algo 
-  avançado como a interface da Netflix. Esse projeto contêm só a página de navegação da Netflix.
+  Este projeto é um clone do aplicativo Spotify criado usando java script como front-end e interface onde mostro um pouco das minhas habilidades em javascript para construir 
+  algo avançado como a interface do Spotify.
   <br><br> 
 </p>
 
