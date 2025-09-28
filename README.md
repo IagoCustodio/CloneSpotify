@@ -40,3 +40,5 @@ Ferramentas utilizadas no projeto
 - VSCode
 - CSS
 - HTML
+
+https://clone-spotify-eosin.vercel.app/
